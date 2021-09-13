@@ -2,7 +2,7 @@ title: Ilan Brajzblat # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Biomedical engineer with a strong interest in deep tech especially synthetic biology and AI in healthcare 
-  <br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/ilan-brajzblat/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
